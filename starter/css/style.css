@@ -24,8 +24,8 @@
   
    
 }
-
-/* cor dos links ao passar o mouse sobre eles */
+ 
+/* cor dos links aopassar o mouse sobre eles */
 .topnav a:hover {
 color: grey;
 }
@@ -47,4 +47,21 @@ color: grey;
   
 }
 
+/*style sections*/
+.page-section {
+  display:flex;
+  justify-content:stretch;
+  align-items:center;
+  margin-top:10px;
+  margin-left: 200px;
+  color: #445876;
+}
 
+.page-section h2{
+  border-right:solid black .1em;
+  padding-right:.5em;
+}
+
+.page-section div{
+  margin-left:.5em;
+}
