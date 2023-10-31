@@ -1,9 +1,9 @@
-/* Defina a fonte para toda a página */
+/* page font */
 * {
   font-family: Arial, sans-serif;
 }
 
-/* Adicione uma cor de fundo à barra de navegação superior */
+/* background color nav */
 .topnav {
   background-color: #31343D;
   overflow: hidden;
@@ -14,7 +14,7 @@
    
 }
 
-/* Estilize os links dentro da barra de navegação */
+/* links style nav */
 .topnav a {
   color: #92CCCD;
   padding: 14px 16px;
@@ -25,12 +25,12 @@
    
 }
  
-/* cor dos links aopassar o mouse sobre eles */
+/* mouse effect */
 .topnav a:hover {
 color: grey;
 }
 
-/* borda verde ao redor do nome "Diego" */
+/* name border */
 .name-frame {
     background: rgba(146, 204, 205, 0.7);
     width: 20%;
@@ -41,7 +41,7 @@ color: grey;
     
 }
 
-/* Alinhe o nome "Diego" à direita da barra de navegação */
+/* align name */
 .name {
   color: #31343D;
   
@@ -65,3 +65,5 @@ color: grey;
 .page-section div{
   margin-left:.5em;
 }
+
+
