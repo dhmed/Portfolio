@@ -66,3 +66,18 @@ color: grey;
   margin-left:.5em;
 }
 
+/* links style footer */
+.footer a {
+  color: #445876;
+  padding: 14px 16px;
+  text-decoration: underline;
+  font-size: 17px;
+  text-decoration-thickness: 2px;
+  
+}
+ 
+/* mouse effect footer*/
+.footer a:hover {
+color: #92CCCD;
+}
+
